@@ -47,7 +47,7 @@ padding-bottom: 1%;
 }
 
 .btn {
-    /* ... outros estilos ... */
+  
     color: #333; /* Cor de fundo do botão */
 
     font-size: 24px; /* Ajuste o tamanho da fonte conforme necessário */
@@ -63,7 +63,7 @@ padding-bottom: 1%;
     cursor: pointer;
     border: none; /* Remove a borda padrão do botão */
     font-family: "Poppins", serif;
-    /* ... outros estilos ... */
+
     transition: all 0.3s ease-in-out;
     
 }
@@ -89,7 +89,7 @@ padding-bottom: 1%;
     text-align: center;
 }
 
-/* ... outros estilos dos botões ... */
+
 
 .image-container {
     text-align: center;
