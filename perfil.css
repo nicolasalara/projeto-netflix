@@ -37,7 +37,7 @@
     box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5);
     color: rgb(0, 0, 0); /* Cor dos títulos ao passar o mouse */
     border-color: red;
-    background-color: rgb(255, 0, 0); /* Adiciona um fundo cinza claro ao passar o mouse */
+    background-color: rgb(255, 0, 0); /* Adiciona um fundo vermelho ao passar o mouse */
 }
 .container a img {
     width: 150px; /* Ajuste o valor para o tamanho desejado */
@@ -63,6 +63,3 @@ h1 {
     transform: translateX(-50%);
     color: red;
 }
-
-
-
