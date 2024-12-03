@@ -74,12 +74,12 @@ padding-bottom: 1%;
 }
 
 .link:hover {
-    color: #ff0000; /* Azul claro ao passar o mouse */
+    color: #ff0000; /* vermelho ao passar o mouse */
     text-decoration: underline; /* Adicionar sublinhado ao passar o mouse */
 }
 
 .btn:hover {
-    background-color: #424040; /* Verde mais escuro */
+    background-color: #424040; /* cinza mais claro */
     box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.2);
   }
 
